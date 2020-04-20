@@ -1,2 +1,2 @@
-# TennisExercise
-Console app to parse and display scores in tennis
+# TennisTracker
+Console app to parse and display scores in tennis.
