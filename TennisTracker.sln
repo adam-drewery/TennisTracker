@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TennisTracker", "TennisTracker\TennisTracker.csproj", "{0C4E57B1-98CC-4D46-8EA3-914244F4CF1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TennisTracker.Console", "TennisTracker.Console\TennisTracker.Console.csproj", "{DE8CDFF0-221D-4BF9-95D2-E44166F538C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TennisTracker.Tests", "TennisTracker.Tests\TennisTracker.Tests.csproj", "{32F0532C-E60D-461A-B9C6-FC79D5FD879C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C4E57B1-98CC-4D46-8EA3-914244F4CF1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C4E57B1-98CC-4D46-8EA3-914244F4CF1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C4E57B1-98CC-4D46-8EA3-914244F4CF1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C4E57B1-98CC-4D46-8EA3-914244F4CF1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE8CDFF0-221D-4BF9-95D2-E44166F538C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8CDFF0-221D-4BF9-95D2-E44166F538C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8CDFF0-221D-4BF9-95D2-E44166F538C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8CDFF0-221D-4BF9-95D2-E44166F538C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32F0532C-E60D-461A-B9C6-FC79D5FD879C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F0532C-E60D-461A-B9C6-FC79D5FD879C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F0532C-E60D-461A-B9C6-FC79D5FD879C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F0532C-E60D-461A-B9C6-FC79D5FD879C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
